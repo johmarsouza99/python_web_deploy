@@ -5,8 +5,6 @@ Este projeto Streamlit oferece uma análise visual e interativa de um conjunto d
 Histogramas: Visualize a distribuição do ano de fabricação dos carros à venda.
 Gráficos de Dispersão: Explore a relação entre preço e ano de fabricação, e entre preço e odômetro.
 Tabelas Dinâmicas: Liste os carros mais caros ou mais baratos, com informações detalhadas sobre cada veículo.
-## Demonstração
-[Insira aqui uma imagem ou GIF animado mostrando o aplicativo em ação]
 
 ## Como Executar
 Clone o Repositório:
