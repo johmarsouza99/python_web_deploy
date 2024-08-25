@@ -14,7 +14,7 @@ car_data['model_year'] = car_data['model_year'].astype('int')
 car_data['odometer'] = car_data['odometer'].astype('int')
 
 # Adicionar o título
-st.header("Histogramas da Venda de Veículos")
+st.header("Análise Interativa do Mercado de Veículos")
 
 # Adicionar uma figura
 st.image("image.jpg")
