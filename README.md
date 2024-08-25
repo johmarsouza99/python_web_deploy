@@ -11,21 +11,18 @@ Tabelas Dinâmicas: Liste os carros mais caros ou mais baratos, com informaçõe
 ## Como Executar
 Clone o Repositório:
 
-```
-Bash
+```bash
 git clone https://github.com/seu-usuario/analise-venda-veiculos.git
 cd analise-venda-veiculos
 ```
 ## Instale as Dependências:
 
-```
-Bash
+```bash
 pip install -r requirements.txt
 ```
 ## Execute o Aplicativo:
 
-```
-Bash
+```bash
 streamlit run app.py
 ```
 Acesse no Navegador: Abra seu navegador e acesse http://localhost:8501.
